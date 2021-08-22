@@ -52,12 +52,12 @@ China's NFT market is mainly led by tech giants like “BAT” (Baidu, Alibaba, 
 Key use case: Alipay NFTs skin and Alibaba’s NFT marketplace ‘Guang Qian’
 Alibaba is currently making significant progress in this field, leading the NFT trend in China
 * 8,000 pieces of Alipay Dunhuang Feitian NFTs sell for up to 700,000 yuan/piece (~$107,700) on second-hand e-commerce platform Xianyu, based on AntChain
-<img src="https://lh3.googleusercontent.com/keep-bbsk/AGk0z-PUhYpNy_cCUh6KhsFsl0KLmeTFXuGNOJH1ashi9ukwUkxgu4wfRuBiCRhiUghbhPZ7fv4JMm8EWSO7W3h_IMN_YZRs4M5nsk-kiEU=s794" width=400>
+<img src="https://i.ibb.co/3ND0YQQ/1.png" width=400>
 
 * Alipay issued another 16,000 copies of the “Wu Liuqi" NFT payment code skin
 * Alipay and Dunhuang Fine Arts Research Institute issued another NFT payment code skin called ”Nine-Colored Deers”, 8,000 pieces of the NFTs have been sold out.
 
-<img src="https://lh3.googleusercontent.com/keep-bbsk/AGk0z-MNro_My8UF_QFhtxzVN297wLCwA8lqEVXxIZh55JZFbYjeAddwS27t9v1rJBF9h6L_G5e9aTp5XTp5JIgly1qJXhv6gIt04LPq7nw=s1084" width=400>
+<img src="https://i.ibb.co/XsYpcQP/2.png" width=400>
 
 * Alipay and Near protocol collaborated and launched NFT virtual mansion ‘Tu Lifu/秃力富’ at the Taobao Maker Festival. The 310 digital real estate NFTs issued by the artist Huang Heshan sold out within two days, with a total price of more than 360,000 yuan (~$55,300).
 * Alibaba auction launched its own marketplace ‘Guangqian’, supported by Conflux tech for deposit services
@@ -85,12 +85,12 @@ Huobi incubated NFT marketplace Ibox.com;
 
 **4. Metaverse becomes a phenomenon**
 
-<img src="https://lh3.googleusercontent.com/keep-bbsk/AGk0z-Mejnz1p0UANyd7nlnhF2xv79vH5PbiZYPGugEnKPtuUaFoztYH4KHib0I3PVJDS1-5V0e3vTrZZ24Kq7FrWGEj4aPCYvAfpjxbVis=s1478" width=600>
+<img src="https://pbs.twimg.com/media/E9ZerZ7UYAI3zIu?format=jpg&" width=600>
 
 </br>
 </br>
 
-<img src="https://lh3.googleusercontent.com/keep-bbsk/AGk0z-PoVo3MPaXPF2TQ0MAr1ghNPo0sU9HRbrDrR_KKAoP7JLlN8codziVVxW0BsMr8PdJXbAQglp0fZG-JxRsLU_AymAyecOZMAp_J8r0=s986" width=600>
+<img src="https://pbs.twimg.com/media/E9ZevLqUYAgWOT-?format=jpg&name=medium" width=600>
 
 Since Tencent was announced as the official agent of the popular foreign game "Roblox", the concept of Metaverse has ushered in unprecedented popularity.  According to the Baidu search index, we can see that NFT as a search keyword is mainly associated with keywords like Metaverse, DeFi, cryptokitties, LOUIS THE GAME etc.
 
