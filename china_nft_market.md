@@ -79,7 +79,7 @@ Alibaba is currently making significant progress in this field, leading the NFT 
 China mainstream CEXes also actively participate in NFT.
 Chinese backgrounded CEXes like Binance and Huobi all launched their own NFT channels such as: 
 Binance Smart Chain NFT(launched on Jun 24th);
-Huobi incubated NFT marketplace Ibox.com;
+Huobi incubated NFT marketplace Ibox.com.
 
 <br>
 
