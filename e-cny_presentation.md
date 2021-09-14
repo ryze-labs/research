@@ -9,7 +9,7 @@ Presentation [here](https://www.sinoglobalcapital.com/static/files/pdf/e-cny_pre
 
 ![](https://miro.medium.com/max/1400/1*NxpVb-uMAd9mrIvYoYk24A.jpeg)
 
-![](https://miro.medium.com/max/1400/1*Nv4iYzrh9a41qxJMWm891A.jpeg)
+![](https://miro.medium.com/max/1400/1*BW_6Ni4aSD8eGhCcQEJWEA.png)
 
 ![](https://miro.medium.com/max/1400/1*b9E9k6q1GQ-NqDSATfNP5A.jpeg)
 
