@@ -36,7 +36,6 @@ Quick India fact sheet:
 
 ![](https://miro.medium.com/max/1400/1*dX2YNPpOOdtjqD1MI29FGw.png)
 
-*   India has the largest number of crypto holders of any country, with an estimated 100,740,320 holders, 266% more than the US’s 27,491,810 holders. ([BrokerChoose’s annual crypto proliferation index](https://brokerchooser.com/education/crypto/crypto-countries)). While an impressive number, this would mean only around 7.5% of the population hold crypto, meaning plenty of room for growth. Note: Data for China is not provided or unavailable.
 
 India is excelling in multiple strategic areas and there are many reasons to be bullish on India’s future. In this report, we will outline why these and other factors combine to create an environment that we believe makes India one of the most important crypto markets in the world.
 
