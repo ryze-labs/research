@@ -1,4 +1,4 @@
-# reports
+# Reports
 Repository of all our reports, open for all to suggest edits and recommendations.
 
 We welcome anyone with suggestions for improvements / additions to submit for review.
